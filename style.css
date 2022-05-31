@@ -77,7 +77,7 @@ button {
 .task-add__input {
   width: 56%;
   display: inline-block;
-  flex-grow: 1
+  flex-grow: 1;
 }
 
 .task-add__btn,
@@ -139,7 +139,7 @@ button {
 }
 
 .task__input {
-  width: 226px
+  width: 226px;
 }
 
 .task__del-btn-icon {
@@ -160,12 +160,12 @@ button {
 
 /* Edit Task */
 .task__input {
-  display: none
+  display: none;
 }
 
 .edit-mode .task__input {
   display: inline-block;
-  width: 224px
+  width: 224px;
 }
 
 .edit-mode .task__name {
