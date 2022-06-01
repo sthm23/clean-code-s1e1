@@ -81,8 +81,8 @@ button {
 }
 
 .task-add__btn,
-.task__edit-btn,
-.task__delete-btn {
+.task__btn_edit,
+.task__btn_delete {
   background: none;
   border: 0px;
   color: #888;
@@ -93,8 +93,8 @@ button {
 }
 
 .task-add__btn:hover,
-.task__edit-btn:hover,
-.task__delete-btn:hover {
+.task__btn_edit:hover,
+.task__btn_delete:hover {
   color: #3a3A3a;
 }
 
